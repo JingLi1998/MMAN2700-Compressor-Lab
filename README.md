@@ -1,5 +1,5 @@
 # MMAN2700-Compressor-Lab
-Used Jupyter notebook to sort through multiple sets of data from a compressor lab demonstration.
+Used Jupyter notebook to sort through multiple sets of data from a compressor lab and a refrigeration lab demonstration.
 
 Provided valuable experience in using the pandas and matplotlib libraries. Most notably allowed myself
 to understand dataframes in python and what can or cannot be done with them. 
